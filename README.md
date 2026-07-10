@@ -284,8 +284,8 @@ Project_Report.pdf
 
 ### Connect with Me
 
-- 💼 LinkedIn: *(Add your LinkedIn Profile)*
-- 🐙 GitHub: https://github.com/nsr-dev-in
+- 💼 LinkedIn: https://www.linkedin.com/in/nsr2k06/
+- 🐙 Github: https://github.com/nsr-dev-in
 
 ---
 
