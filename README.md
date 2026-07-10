@@ -22,7 +22,7 @@ The objective is to transform raw E-Commerce sales data into meaningful business
 
 # 📊 Dashboard Preview
 
-![Dashboard](images/dashboard/Dashboard.png)
+![Dashboard](images/dashboard/1.png)
 
 ---
 
