@@ -55,19 +55,19 @@ The objective is to transform raw E-Commerce sales data into meaningful business
 Raw Dataset
       │
       ▼
- Excel Data Cleaning
+Excel Data Cleaning
       │
       ▼
- SQL Business Analysis
+SQL Business Analysis
       │
       ▼
- Python EDA
+Python EDA
       │
       ▼
- Power BI Dashboard
+Power BI Dashboard
       │
       ▼
- Business Insights
+Business Insights
 ```
 
 ---
@@ -81,8 +81,8 @@ E-Commerce-Sales-Analysis
 │   └── E-Commerce Sales Dashboard.pbix
 │
 ├── data
-│   ├── Sample_Superstore.csv
-│   └── Cleaned_Data.csv
+│   ├── cleaned_dataset.csv.
+│   └── raw_dataset.csv
 │
 ├── images
 │   ├── dashboard
@@ -90,10 +90,12 @@ E-Commerce-Sales-Analysis
 │   └── sql_analysis
 │
 ├── notebook
-│   └── EDA.ipynb
+│   ├── 01_Data_Cleaning.ipynb
+│   ├── 02_EDA.ipynb
+|   └── 03_Loading_CSV_into_SQL.ipynb
 │
 ├── sql
-│   └── SQL Queries.sql
+│   └── SQL_Analysis.sql
 │
 ├── Project_Report.pdf
 │
