@@ -180,47 +180,43 @@ Python was used for:
 
 # 📷 Screenshots
 
+## Python Notebook
+
+![Python Notebook](images/python/1.png)
+![Python Notebook](images/python/2.png)
+![Python Notebook](images/python/3.png)
+![Python Notebook](images/python/4.png)
+![Python Notebook](images/python/5.png)
+![Python Notebook](images/python/6.png)
+![Python Notebook](images/python/7.png)
+![Python Notebook](images/python/8.png)
+![Python Notebook](images/python/9.png)
+
+---
+
+## SQL Queries
+
+![SQL Queries](images/sql_analysis/1.png)
+![SQL Queries](images/sql_analysis/2.png)
+![SQL Queries](images/sql_analysis/3.png)
+![SQL Queries](images/sql_analysis/4.png)
+
+---
+
 ## Dashboard
 
-![Dashboard](images/dashboard/Dashboard.png)
+![Dashboard](images/dashboard/1.png)
+![Dashboard](images/dashboard/2.png)
+![Dashboard](images/dashboard/3.png)
+![Dashboard](images/dashboard/4.png)
+![Dashboard](images/dashboard/5.png)
+![Dashboard](images/dashboard/6.png)
+![Dashboard](images/dashboard/7.png)
+![Dashboard](images/dashboard/8.png)
+![Dashboard](images/dashboard/9.png)
+![Dashboard](images/dashboard/10.png)
 
----
-
-## KPI Overview
-
-![KPI](images/dashboard/KPI%20Overview.png)
-
----
-
-## Sales Trend
-
-![Sales](images/dashboard/Sales%20Trend.png)
-
----
-
-## Profit Analysis
-
-![Profit](images/dashboard/Profit%20Analysis.png)
-
----
-
-## Top Products
-
-![Products](images/dashboard/Top%20Products.png)
-
----
-
-## Category Analysis
-
-![Category](images/dashboard/Category%20Analysis.png)
-
----
-
-## Filters Demo
-
-![Filters](images/dashboard/Filters%20Demo.png)
-
----
+--
 
 # 📊 Key Business Insights
 
